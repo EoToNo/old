@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tsl.eotono.tk</id>
     <title>TimeSL - Blog</title>
-    <updated>2020-08-29T15:59:51.563Z</updated>
+    <updated>2020-10-01T12:52:57.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tsl.eotono.tk"/>
     <link rel="self" href="https://tsl.eotono.tk/atom.xml"/>
@@ -16,8 +16,10 @@
         </link>
         <updated>2020-08-28T07:44:31.000Z</updated>
         <summary type="html"><![CDATA[<p>表达自己对服务器的支持，让服务器能更长久的运行下去！</p>
+<hr>
 ]]></summary>
         <content type="html"><![CDATA[<p>表达自己对服务器的支持，让服务器能更长久的运行下去！</p>
+<hr>
 <!-- more -->
 <h1 id="timesl-无偿赞助">TimeSL - 无偿赞助</h1>
 <ul>
@@ -30,6 +32,133 @@
 支付宝：<img src="https://tsl.eotono.tk/post-images/1598601219453.jpg" alt="" loading="lazy"><br>
 微信：<img src="https://tsl.eotono.tk/post-images/1598601023854.png" alt="" loading="lazy"></p>
 <h3 id="温馨提醒请-备注-游戏id哦~这样好进行统计">温馨提醒：请 -备注- 游戏ID哦~这样好进行统计！</h3>
+<h1 id="赞助名单-感谢各位的支持">赞助名单 - 感谢各位的支持！</h1>
+<table>
+<thead>
+<tr>
+<th>玩家名称</th>
+<th>金额</th>
+<th>时间</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>whybecauseso</td>
+<td>8</td>
+<td>2020.4.21</td>
+</tr>
+<tr>
+<td>xiaoyuan1412</td>
+<td>3</td>
+<td>2020.4.12</td>
+</tr>
+<tr>
+<td>xpgds</td>
+<td>3.5</td>
+<td>2020.4.12</td>
+</tr>
+<tr>
+<td>匿名玩家</td>
+<td>5</td>
+<td>2020.4.12</td>
+</tr>
+<tr>
+<td>匿名玩家</td>
+<td>4.52</td>
+<td>2020.4.12</td>
+</tr>
+<tr>
+<td>GoGmmol</td>
+<td>18.66</td>
+<td>2020.3.31</td>
+</tr>
+<tr>
+<td>zhengxuan8244</td>
+<td>1</td>
+<td>2020.3.21</td>
+</tr>
+<tr>
+<td>xiaoyuan1412</td>
+<td>0.68</td>
+<td>2020.3.20</td>
+</tr>
+<tr>
+<td>XiaoLu233</td>
+<td>30</td>
+<td>2020.3.18</td>
+</tr>
+<tr>
+<td>Xingguang123</td>
+<td>10</td>
+<td>2020.3.5</td>
+</tr>
+<tr>
+<td>clmthxt</td>
+<td>0.56</td>
+<td>2020.3.5</td>
+</tr>
+<tr>
+<td>Supreme9987</td>
+<td>5.11</td>
+<td>2020.2.16</td>
+</tr>
+<tr>
+<td>LingXiaoMing</td>
+<td>10</td>
+<td>2020.2.16</td>
+</tr>
+<tr>
+<td>ZhushenYusi</td>
+<td>2.67</td>
+<td>2020.2.16</td>
+</tr>
+<tr>
+<td>MDZZ666</td>
+<td>0.81</td>
+<td>2020.2.16</td>
+</tr>
+<tr>
+<td>PaperMosquito44</td>
+<td>5.21</td>
+<td>2020.2.16</td>
+</tr>
+<tr>
+<td>xiaoyuan1412</td>
+<td>0.1</td>
+<td>2020.2.16</td>
+</tr>
+<tr>
+<td>Constand233</td>
+<td>2.41</td>
+<td>2020.2.16</td>
+</tr>
+<tr>
+<td>Maybe1314520</td>
+<td>6.5</td>
+<td>2020.2.16</td>
+</tr>
+<tr>
+<td>whybecauseso</td>
+<td>0.6</td>
+<td>2020.2.16</td>
+</tr>
+<tr>
+<td>TigerishStew609</td>
+<td>2.73</td>
+<td>2020.2.16</td>
+</tr>
+<tr>
+<td>Xingguang123</td>
+<td>15</td>
+<td>2020.2.16</td>
+</tr>
+<tr>
+<td>red bean ice</td>
+<td>10</td>
+<td>2020.2.16</td>
+</tr>
+</tbody>
+</table>
 ]]></content>
     </entry>
     <entry>
