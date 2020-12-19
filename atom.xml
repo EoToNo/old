@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tsl.eotono.tk</id>
+    <id>https://tsl.eotono.net</id>
     <title>TimeSL - Blog</title>
-    <updated>2020-11-08T02:41:44.518Z</updated>
+    <updated>2020-12-19T13:54:38.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://tsl.eotono.tk"/>
-    <link rel="self" href="https://tsl.eotono.tk/atom.xml"/>
-    <logo>https://tsl.eotono.tk/images/avatar.png</logo>
-    <icon>https://tsl.eotono.tk/favicon.ico</icon>
+    <link rel="alternate" href="https://tsl.eotono.net"/>
+    <link rel="self" href="https://tsl.eotono.net/atom.xml"/>
+    <logo>https://tsl.eotono.net/images/avatar.png</logo>
+    <icon>https://tsl.eotono.net/favicon.ico</icon>
     <rights>All rights reserved 2020, TimeSL - Blog</rights>
     <entry>
         <title type="html"><![CDATA[无偿赞助 - 支持服务器的最好方法！]]></title>
-        <id>https://tsl.eotono.tk/post/DL0XneKmv/</id>
-        <link href="https://tsl.eotono.tk/post/DL0XneKmv/">
+        <id>https://tsl.eotono.net/post/DL0XneKmv/</id>
+        <link href="https://tsl.eotono.net/post/DL0XneKmv/">
         </link>
         <updated>2020-08-28T07:44:31.000Z</updated>
         <summary type="html"><![CDATA[<p>表达自己对服务器的支持，让服务器能更长久的运行下去！</p>
@@ -29,8 +29,8 @@
 </li>
 </ul>
 <p><a href="http://afdian.net/@EternalAC">爱发电 - 点击跳转</a><br>
-支付宝：<img src="https://tsl.eotono.tk/post-images/1598601219453.jpg" alt="" loading="lazy"><br>
-微信：<img src="https://tsl.eotono.tk/post-images/1598601023854.png" alt="" loading="lazy"></p>
+支付宝：<img src="https://tsl.eotono.net/post-images/1598601219453.jpg" alt="" loading="lazy"><br>
+微信：<img src="https://tsl.eotono.net/post-images/1598601023854.png" alt="" loading="lazy"></p>
 <h3 id="温馨提醒请-备注-游戏id哦~这样好进行统计">温馨提醒：请 -备注- 游戏ID哦~这样好进行统计！</h3>
 <h1 id="赞助名单-感谢各位的支持">赞助名单 - 感谢各位的支持！</h1>
 <table>
@@ -358,8 +358,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[TimeSL - 规则]]></title>
-        <id>https://tsl.eotono.tk/post/fDV-M6Jk-/</id>
-        <link href="https://tsl.eotono.tk/post/fDV-M6Jk-/">
+        <id>https://tsl.eotono.net/post/fDV-M6Jk-/</id>
+        <link href="https://tsl.eotono.net/post/fDV-M6Jk-/">
         </link>
         <updated>2020-08-28T07:27:13.000Z</updated>
         <summary type="html"><![CDATA[<p>详细的附带说明的服务器和群聊规则！</p>
@@ -377,8 +377,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[关于 TimeSL]]></title>
-        <id>https://tsl.eotono.tk/post/about/</id>
-        <link href="https://tsl.eotono.tk/post/about/">
+        <id>https://tsl.eotono.net/post/about/</id>
+        <link href="https://tsl.eotono.net/post/about/">
         </link>
         <updated>2020-08-20T10:57:56.000Z</updated>
         <summary type="html"><![CDATA[<p>关于TimeSL的一些东西。</p>
