@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tsl.eotono.net</id>
     <title>TimeSL - Blog</title>
-    <updated>2021-07-19T05:17:01.655Z</updated>
+    <updated>2021-07-19T05:18:53.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tsl.eotono.net"/>
     <link rel="self" href="https://tsl.eotono.net/atom.xml"/>
@@ -597,38 +597,6 @@
 <li><a href="https://docs.qq.com/doc/DSU9ZY0h4R01YWm9J?pub=1&amp;dver=2.1.0">跳转查看</a></li>
 </ul>
 <h2 id="待补充">待补充...</h2>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于 TimeSL]]></title>
-        <id>https://tsl.eotono.net/post/about/</id>
-        <link href="https://tsl.eotono.net/post/about/">
-        </link>
-        <updated>2020-08-20T10:57:56.000Z</updated>
-        <summary type="html"><![CDATA[<p>关于TimeSL的一些东西。</p>
-<hr>
-]]></summary>
-        <content type="html"><![CDATA[<p>关于TimeSL的一些东西。</p>
-<hr>
-<!-- more -->
-<h1 id="timesl-简介">TimeSL - 简介</h1>
-<ul>
-<li>TimeSL-是-一个喜欢玩《Minecraft》的玩家所运行的服务器的名称.</li>
-<li>TimeSL-创立于 -2018.9.24- 已经稳定运行接近 3 年了！</li>
-<li>TimeSL-的理念-这是一个属于你的世界！</li>
-<li>TimeSL-的特点-我们的服务器跟随新版本更新，服务器稳定，卡顿较少（迫真），玩家有良好的素质，就像一个温馨的家！</li>
-</ul>
-<h1 id="timesl-团队">TimeSL - 团队</h1>
-<ul>
-<li>服主：Eotono(EternalAC) - 一个苦逼的高中生，上网时间少之又少！</li>
-<li>管理：XiaosongSystem - 开启了大学生活，主要管理服务器。</li>
-<li>管理：MX5207089 - 由于种种原因，目前没有再对服务器进行管理。</li>
-<li>机器人：小秋 - 就她最闲，每天都有时间回答你的问题，而且是秒回的！</li>
-</ul>
-<h1 id="timesl-加入">TimeSL - 加入</h1>
-<ul>
-<li>QQ群：864460190</li>
-</ul>
 ]]></content>
     </entry>
 </feed>
